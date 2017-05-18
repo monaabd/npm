@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "testnpm",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^20.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monaabd/npm.git"
+  },
+  "author": "mona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monaabd/npm/issues"
+  },
+  "homepage": "https://github.com/monaabd/npm#readme"
+}
