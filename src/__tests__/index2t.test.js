@@ -1,5 +1,9 @@
-const isFingerNunber=require('../index2.js');
-test('isFingerNumber(3)',()=>{ if(n>10)return true;
+const isFingerNumber=require('../indext2.js');
+
+test('isFingerNumber',()=>{ 
     
-    
-});
+    expect(isFingerNumber(3)).toBe(true);
+}
+);
+//test(isFingerNumber(3), true, '3');
+   
